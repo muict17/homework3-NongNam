@@ -1,0 +1,3 @@
+Permutation array - เรียน pointer แล้วมาย้อนอ่านอีกที
+
+*มีความงง pointer พอสมควร...
